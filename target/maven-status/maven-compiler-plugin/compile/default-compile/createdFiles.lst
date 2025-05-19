@@ -1,7 +1,13 @@
+net\openwebinars\java\mysql\crud\dao\CategoriaDao.class
+net\openwebinars\java\mysql\crud\model\Categoria.class
 net\openwebinars\java\mysql\crud\Menu$KeyboardReader.class
-net\openwebinars\java\mysql\crud\dao\EmpleadoDaiImpl.class
+net\openwebinars\java\mysql\crud\model\Producto.class
 net\openwebinars\java\mysql\crud\dao\EmpleadoDao.class
 net\openwebinars\java\mysql\crud\pool\MyDataSource.class
+net\openwebinars\java\mysql\crud\dao\ProductoDaoImpl.class
+net\openwebinars\java\mysql\crud\Menu.class
+net\openwebinars\java\mysql\crud\dao\ProductoDao.class
+net\openwebinars\java\mysql\crud\dao\EmpleadoDaiImpl.class
+net\openwebinars\java\mysql\crud\dao\CategoriaDaoImpl.class
 net\openwebinars\java\mysql\crud\model\Empleado.class
 net\openwebinars\java\mysql\crud\App.class
-net\openwebinars\java\mysql\crud\Menu.class
